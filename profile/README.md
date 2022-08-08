@@ -288,9 +288,6 @@ A Aplicação iniciará em <http://localhost:8080>.
 
 - **Selecione o produto desejado e decida, através do toggle, se deseja ou não apresentar as combinações sugeridas associadas a ele**.
 
-## 💪🏻 Desenvolvido por
-
-- [Allysson Fernando](https://www.linkedin.com/in/allyssonalmeida/)         
 
 #
 ## 💪🏻 Desenvolvido por
