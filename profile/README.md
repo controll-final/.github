@@ -218,7 +218,7 @@ As seguintes tecnologias/ferramentas foram usadas na construção da API:
 - **Documentação Open API 3** [aqui](https://hccontroll03.app.br/swagger-ui/index.html)
 
 ---
-## 🔨 Executando a API
+### 🔨 Executando a API
 
 **1. Clone a Aplicação**
 
