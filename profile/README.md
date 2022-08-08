@@ -32,7 +32,7 @@
 ### 📌 **Construção**
 
 - Para o projeto, foi utilizada a metodologia ágil **Kanban**.
-- Página construída com base no projeto da semifinal, o qual foi baseado no Store Theme - VTEX. 
+- Página construída com base no projeto da semifinal, a qual subsequentmeente foi baseada no Store Theme - VTEX. 
 - Construção do front-end segundo o protótipo construído no [Figma](https://www.figma.com/file/BhAeyEwi0T6o5koquYqDQu/HC-Final-Bee-In-Control).
 
 ### **O Front-End Possui:**
@@ -61,9 +61,9 @@
 ### 📌 **Construção do Layout**
 
 - Foram criadas duas buyer-personas a partir das informações coletadas por meio de um formulário com questionário para conhecer o público-alvo de maneira mais profunda. Esses personagens ajudaram a manter a consistência da comunicação e identidade da marca durante o desenvolvimento da loja online;
-- Identidade visual consolidade, com criação de logo e [cartela de cores](https://www.figma.com/file/BhAeyEwi0T6o5koquYqDQu/HC-Final-Bee-In-Control?node-id=4%3A150); 
-- Criação de frases e CTAs para os banners do site sempre mantendo o tom característico da marca, alinhado com a identidade visual;
-- Criação e alimentação com vídeos e fotos das redes sociais Bee In Controll. [Facebook](https://www.facebook.com/beeincontrolloficial/), [Instagram](https://www.instagram.com/beeincontrolloficial/), [Youtube](https://www.youtube.com/channel/UCCE6CP2paufxjkpABhynUag).
+- Identidade visual construída, com criação de logo e [cartela de cores](https://www.figma.com/file/BhAeyEwi0T6o5koquYqDQu/HC-Final-Bee-In-Control?node-id=4%3A150); 
+- Criação de frases e CTAs para os banners do site, buscando manter o tom característico da marca, alinhado com a identidade visual;
+- Criação e alimentação com vídeos e fotos para as redes sociais Bee In Controll. [Facebook](https://www.facebook.com/beeincontrolloficial/), [Instagram](https://www.instagram.com/beeincontrolloficial/), [Youtube](https://www.youtube.com/channel/UCCE6CP2paufxjkpABhynUag).
 ---
 ### 📌 **Loja VTEX**
 
