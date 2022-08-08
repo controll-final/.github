@@ -292,7 +292,7 @@ A Aplicação iniciará em <http://localhost:8080>.
 - **Front-end**: Allysson Fernando; Cristiane dos Santos Costa; Leona Evangelista; Rômulo Rosa; Douglas Rodrigues; Suélen Dias
 - **Admin Loja Vtex**: Suélen Dias, Fernando Beça, Andressa Santana
 - **Marketing**: Cristiane dos Santos Costa; Leona Evangelista e Alessandra
-- **Documentação**: Suélen Dias; Leona Evangelista
+- **Documentação**: Suélen Dias; Leona Evangelista; Douglas Rodrigues
 
 #
 ## 📸 Preview
