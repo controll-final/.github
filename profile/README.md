@@ -92,7 +92,7 @@
 #
 ### 🐝 Preview
 
-<img alt="Preview" title="#Preview" src="https://i.ibb.co/jbgfNcz/bloco.png" />
+<img alt="Preview" title="#Preview" src="https://i.ibb.co/YjtDg3c/Anima-o.gif" />
 
 #
 ### 🐝 Utilizando no Projeto
