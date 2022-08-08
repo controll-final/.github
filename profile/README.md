@@ -4,17 +4,17 @@
 
 ## 🔎 Índice de conteúdos
 
-* [Sobre o Projeto](#📝-sobre-o-projeto)
-    * [Concepção da Bee in Controll](#📌-concepção-da-bee-in-controll)
-    * [Construção](#📌-construção)
-    * [Construção do Layout](#📌-construção-do-layout)
-    * [Catálogo de Produto](#📌-catálogo-de-produto)
-* [Tecnologias e Ferramentas](#🔧-tecnologias-e-ferramentas)
-* [Executando](#🔨-executando)
-* [Back-End](#💻-back-end)
-* [Desenvolvido Por](#💪🏻-desenvolvido-por)
-* [Atribuições](#👥-atribuições)
-* [Preview](#📸-preview)
+* [Sobre o Projeto](#-sobre-o-projeto)
+    * [Concepção da Bee in Controll](#-concepção-da-bee-in-controll)
+    * [Construção](#-construção)
+    * [Construção do Layout](#-construção-do-layout)
+    * [Loja VTEX](#-loja-vtex)
+* [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
+* [Executando](#-executando)
+* [Back-End](#-back-end)
+* [Desenvolvido Por](#-desenvolvido-por)
+* [Atribuições](#-atribuições)
+* [Preview](#-preview)
 
 #
 ## 📝 Sobre o Projeto
