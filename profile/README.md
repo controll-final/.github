@@ -115,4 +115,4 @@ As seguintes tecnologias/ferramentas foram usadas na construção do projeto:
 #
 ## 📸 Preview
 
-<img alt="Preview" title="#Preview" src="../imagens/projeto/home-desktop.png" />
+<img alt="Preview" title="#Preview" src="https://i.ibb.co/mTzvH6r/Home-Desktop.png"/>
